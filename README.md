@@ -56,24 +56,12 @@ This repository contains my research project on explainable machine learning for
 | Stage | Status |
 |--------|--------|
 | Literature Review | 🔄 In Progress |
-| Dataset Preparation | ⏳ Pending |
+| Dataset Preparation | 🔄 In Progress  |
 | Model Development | ⏳ Pending |
 | Explainability Analysis | ⏳ Pending |
 | Paper Writing | ⏳ Pending |
 
 ---
-
-## 👩‍💻 Author
-
-**Jajitha Kumbakonam**
-
-Research Interests:
-- Artificial Intelligence
-- Machine Learning
-- Anomaly Detection
-- Explainable AI (XAI)
-- Natural Language Processing
-- Large Language Models
 
 - ## Progress Log
 
@@ -93,6 +81,19 @@ Research Interests:
 * Explored the structure of HDFS log messages.
 * Identified key components such as timestamps, log levels, Block IDs, DataNode, PacketResponder, and FSNamesystem.
 * Recorded initial observations about the dataset for future analysis.
+
+   ## 👩‍💻 Author
+
+**Jajitha Kumbakonam**
+
+Research Interests:
+- Artificial Intelligence
+- Machine Learning
+- Anomaly Detection
+- Explainable AI (XAI)
+- Natural Language Processing
+- Large Language Models
+
 
 
 GitHub: https://github.com/jajitha2810
