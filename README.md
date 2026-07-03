@@ -75,6 +75,26 @@ Research Interests:
 - Natural Language Processing
 - Large Language Models
 
+- ## Progress Log
+
+### Day 1 – Environment Setup
+
+* Installed Python 3.14
+* Installed Git
+* Installed Visual Studio Code
+* Configured Jupyter Notebook
+* Created the research project structure
+* Downloaded the HDFS_2k dataset
+
+### Day 2 – Initial Dataset Exploration
+
+* Successfully loaded the HDFS_2k log dataset using Python.
+* Verified that the dataset contains 2,000 log entries.
+* Explored the structure of HDFS log messages.
+* Identified key components such as timestamps, log levels, Block IDs, DataNode, PacketResponder, and FSNamesystem.
+* Recorded initial observations about the dataset for future analysis.
+
+
 GitHub: https://github.com/jajitha2810
 
 ---
