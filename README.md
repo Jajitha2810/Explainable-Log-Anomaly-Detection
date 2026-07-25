@@ -80,7 +80,7 @@ AI_Research/
 ---
 
 - ## Progress Log
-
+---
 ### Day 1 – Environment Setup
 ---
 * Installed Python 3.14
