@@ -97,7 +97,7 @@ AI_Research/
 * Explored the structure of HDFS log messages.
 * Identified key components such as timestamps, log levels, Block IDs, DataNode, PacketResponder, and FSNamesystem.
 * Recorded initial observations about the dataset for future analysis.
-----
+
 ### Day 3 – Data Structuring and Exploratory Data Analysis
 
 * Parsed raw HDFS log entries into a structured pandas DataFrame.
