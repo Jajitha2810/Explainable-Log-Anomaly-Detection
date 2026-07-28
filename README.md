@@ -63,19 +63,26 @@ AI_Research/
 - ✅ GitHub repository created
 - 🔄 Literature review in progress
 - ✅ HDFS dataset collected
-- ✅ Initial dataset exploration completed
-- 🔄 Structured dataset preparation in progress
-- ⏳ Model implementation
+- ✅ Structured dataset prepared
+- ✅ Exploratory Data Analysis (EDA) completed
+- ✅ Feature engineering completed
+- ✅ Isolation Forest model implemented
+- 🔄 Model evaluation in progress
+- ⏳ Explainable AI (SHAP) implementation
+- ⏳ Deep learning model implementation
+  
 
 ---
-| Stage | Status |
-|--------|--------|
-| Literature Review | 🔄 In Progress |
-| Dataset Preparation | 🔄 In Progress |
-| Exploratory Data Analysis | ✅ Completed |
-| Model Development | ⏳ Pending |
-| Explainability Analysis | ⏳ Pending |
-| Paper Writing | ⏳ Pending |
+| Stage                     | Status         |
+| ------------------------- | -------------- |
+| Literature Review         | 🔄 In Progress |
+| Dataset Preparation       | ✅ Completed    |
+| Exploratory Data Analysis | ✅ Completed    |
+| Feature Engineering       | ✅ Completed    |
+| Model Development         | 🔄 In Progress |
+| Explainability Analysis   | ⏳ Pending      |
+| Deep Learning Models      | ⏳ Pending      |
+| Paper Writing             | ⏳ Pending      |
 
 ---
 
@@ -109,17 +116,43 @@ AI_Research/
 * Generated the first research figures for the project.
 * Initialized Git version control and created the first project commit.
 ----
+### Day 4 – Feature Engineering
+
+* Created a dedicated feature engineering notebook.
+* Engineered numerical and binary features from HDFS log messages.
+* Generated a machine-learning-ready feature matrix.
+* Documented observations about engineered features.
+
+---
+
+### Day 5 – Isolation Forest & Initial Model Evaluation
+
+* Implemented the Isolation Forest anomaly detection model.
+* Successfully trained the model using engineered HDFS log features.
+* Generated anomaly predictions for all 2,000 log entries.
+* Detected 88 anomalous log entries (approximately 4.4% of the dataset).
+* Created the initial model evaluation notebook.
+* Visualized the distribution of normal and anomalous log entries.
+* Identified dfs.DataNode$DataXceiver as the component with the highest number of detected anomalies.
+* Documented initial observations for future Explainable AI analysis.
+---
 ### Completed
+
 - Development environment setup
 - GitHub repository creation
 - HDFS dataset download
 - Initial HDFS log exploration
 - Parsed raw HDFS logs into a structured pandas DataFrame
-- Performed initial exploratory data analysis (EDA)
-- Analyzed log levels and Hadoop component distribution
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Machine learning feature matrix preparation
+- Isolation Forest anomaly detection model
+- Initial model evaluation
 ----
 ### Currently Working On
-Preparing structured log data and feature engineering for anomaly detection experiments.
+
+- Evaluating Isolation Forest results.
+- Preparing Explainable AI (SHAP) analysis.
 
    ## 👩‍💻 Author
 
