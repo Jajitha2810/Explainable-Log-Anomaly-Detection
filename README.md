@@ -57,32 +57,30 @@ AI_Research/
 - ROC-AUC
 - Inference Time
 ---
-## 🚀 Current Status
+🚀 Current Status
 
-- ✅ Research topic finalized
-- ✅ GitHub repository created
-- 🔄 Literature review in progress
-- ✅ HDFS dataset collected
-- ✅ Structured dataset prepared
-- ✅ Exploratory Data Analysis (EDA) completed
-- ✅ Feature engineering completed
-- ✅ Isolation Forest model implemented
-- 🔄 Model evaluation in progress
-- ⏳ Explainable AI (SHAP) implementation
-- ⏳ Deep learning model implementation
+✅ Research topic finalized
+✅ GitHub repository created
+✅ Literature review completed
+✅ HDFS dataset collected
+✅ Initial dataset exploration completed
+✅ Feature engineering completed
+✅ Isolation Forest implemented
+✅ Model evaluation completed
+✅ SHAP explainability completed
+🔄 Paper writing in progress
   
 
 ---
 | Stage                     | Status         |
 | ------------------------- | -------------- |
-| Literature Review         | 🔄 In Progress |
+| Literature Review         | ✅ Completed    |
 | Dataset Preparation       | ✅ Completed    |
 | Exploratory Data Analysis | ✅ Completed    |
-| Feature Engineering       | ✅ Completed    |
-| Model Development         | 🔄 In Progress |
-| Explainability Analysis   | ⏳ Pending      |
-| Deep Learning Models      | ⏳ Pending      |
-| Paper Writing             | ⏳ Pending      |
+| Model Development         | ✅ Completed    |
+| Explainability Analysis   | ✅ Completed    |
+| Paper Writing             | 🔄 In Progress |
+
 
 ---
 
